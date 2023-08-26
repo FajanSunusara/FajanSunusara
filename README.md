@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fajansunusara&label=Profile%20views&color=0e75b6&style=flat" alt="fajansunusara" /> </p>
 
-- 🔭 I’m currently working on [Medelp](https://github.com/FajanSunusara/Medelp.git)
+- 🔭 I’m currently working on [Medhelp](https://github.com/FajanSunusara/Medelp.git)
 
 - 📫 How to reach me **faizansunasara123@gmail.com**
 
