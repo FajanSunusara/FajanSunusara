@@ -48,12 +48,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/JIRA_logo.svg" alt="jira" width="40" height="40"/> 
 </p>
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fajansunusara&show_icons=true&locale=en&layout=compact" alt="fajansunusara" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fajansunusara&show_icons=true&locale=en" alt="faj
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fajansunusara&show_icons=true&locale=en" alt="fajansunusara" /></p>
 
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fajansunusara&" alt="fajansunusara" /></p>
 
 
 
