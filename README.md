@@ -45,7 +45,8 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/JIRA_logo.svg" alt="jira" width="40" height="40"/> 
+  <img src="![image](https://github.com/FajanSunusara/FajanSunusara/assets/49346372/c35988c5-1310-4359-a185-57fde704f605)
+" alt="jira" width="40" height="40"/> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=f
